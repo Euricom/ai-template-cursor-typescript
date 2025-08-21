@@ -1,0 +1,13 @@
+{
+    // Cursor specific settings
+    "cursor.composer.usageSummaryDisplay": "always",
+
+    // Other settings
+    "editor.formatOnSave": true,
+    "files.autoSave": "onFocusChange",
+
+    //
+    // Add here your project settings
+    //
+}
+

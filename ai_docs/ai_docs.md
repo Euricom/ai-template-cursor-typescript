@@ -1,4 +1,4 @@
-# AI Documentation for Claude Code
+# AI Documentation for Cursor
 
 ## Overview
 

@@ -111,4 +111,4 @@ Missing tests: [list with focus on component and API tests]
 - [ ] `pnpm test` passes with 80%+ coverage
 ```
 
-Save report to PRPs/code_reviews/review[#].md (check existing files first)
+Save report to ai_docs/code_reviews/review[#].md (check existing files first)

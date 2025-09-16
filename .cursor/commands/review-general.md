@@ -245,4 +245,4 @@ Recommended review frequency: [Monthly/Quarterly]
 Focus areas for next review: [Specific areas to monitor]
 ```
 
-Save report to PRPs/code_reviews/general_review_[YYYY-MM-DD].md
+Save report to ai_docs/code_reviews/general_review_[YYYY-MM-DD].md

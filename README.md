@@ -4,7 +4,7 @@ A modern project structure optimized for efficient AI-assisted development using
 
 ## Overview
 
-This repository provides a standardized structure for AI-enhanced software development workflows. Rather than directly inputting commands, documentation, and feature requests into the CLI of Claude Code, this structure offers a more organized, version-controlled, and collaborative approach to working with AI coding assistants.
+This repository provides a standardized structure for AI-enhanced software development workflows. Rather than directly inputting commands, documentation, and feature requests into the CLI of Cursor, this structure offers a more organized, version-controlled, and collaborative approach to working with AI coding assistants.
 
 ## Directory Structure
 
@@ -28,7 +28,7 @@ This repository provides a standardized structure for AI-enhanced software devel
 
 ### 1. Claude Commands (`.claude/commands/`)
 
-Custom reusable commands that streamline interactions with Claude Code:
+Custom reusable commands that streamline interactions with Cursor:
 
 - **Project Context Initialization**: The `prime.md` command quickly primes Claude with project structure and important documentation
 - **Standardized Workflows**: Create commands for code generation, testing, analysis, and more
@@ -49,14 +49,14 @@ Structured specifications for planned features:
 
 - **Implementation Blueprint**: Detailed specs for types, methods, tests, and validation
 - **Consistent Design**: Standardized format ensures all necessary details are included
-- **AI-Ready Format**: Optimized for consumption by Claude Code
+- **AI-Ready Format**: Optimized for consumption by Cursor
 - **Invocation Syntax**: Use `@[path/to/spec.md]` to reference in conversations
 
 ## Using the Prime Command
 
 The `prime.md` command fills Claude's context window with essential project information:
 
-1. Run `/project:prime` in Claude Code
+1. Run `/project:prime` in Cursor
 2. Claude will:
    - Display the project structure
    - Read key documentation files

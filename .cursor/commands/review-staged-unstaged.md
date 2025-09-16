@@ -1,15 +1,9 @@
----
-alwaysApply: false
----
-
 # staged TypeScript Codebase Review
 
 List and review any files in the staging area, both staged and unstaged.
 Ensure you look at both new files and modified files.
 
 Check the diff of each file to see what has changed.
-
-Previous review report: $ARGUMENTS
 
 May or may not be added, ignore the previous review if not specified.
 

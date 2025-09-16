@@ -1,7 +1,3 @@
----
-alwaysApply: false
----
-
 # Prime Context
 
 Use the command `git ls-files` to get an understanding of the project structure.

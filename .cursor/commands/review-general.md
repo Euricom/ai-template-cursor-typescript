@@ -1,12 +1,6 @@
----
-alwaysApply: false
----
-
 # General TypeScript Codebase Review
 
 Perform a comprehensive review of the entire TypeScript codebase focusing on architecture, patterns, and best practices.
-
-Review scope: $ARGUMENTS
 
 If no specific scope provided, review the entire codebase.
 

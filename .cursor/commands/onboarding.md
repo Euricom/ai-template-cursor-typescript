@@ -1,7 +1,3 @@
----
-alwaysApply: false
----
-
 # Onboarding
 
 Please perform a comprehensive onboarding analysis for a new developer joining this project. Execute the following steps:

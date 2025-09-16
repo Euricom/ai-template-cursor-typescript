@@ -1,13 +1,6 @@
----
-alwaysApply: false
----
-
 # Create Pull Request
 
 Create a well-structured pull request with proper description and context.
-
-## PR Title (if provided)
-$ARGUMENTS
 
 ## Process
 
